@@ -415,7 +415,7 @@ textarea {
 .hero-bg {
 	min-height: 800px;
 	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)),
-		url(../ressources/images/bg.jpg);
+		url(../ressources/images/bg.png);
 	background-color: #7289da;
 	background-size: 2000px;
 	background-position: center;
@@ -425,7 +425,7 @@ textarea {
 .header {
 	min-height: 250px;
 	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)),
-		url(../ressources/images/bg.jpg);
+		url(../ressources/images/bg.png);
 	background-color: #7289da;
 	background-size: 2000px;
 	background-position: center;
@@ -460,23 +460,23 @@ article.card .thumb {
 }
 
 article.card .one {
-	background: url(../ressources/Sticker_FemmeRobe.png) no-repeat center;
+	background: url(../ressources/images/selling.png) no-repeat center;
 }
 
 article.card .two {
-	background: url(../ressources/Sticker_HommePenche.png) no-repeat center;
+	background: url(../ressources/images/selling.png) no-repeat center;
 }
 
 article.card .three {
-	background: url(../ressources/Sticker_Soldier.png) no-repeat center;
+	background: url(../ressources/images/selling.png) no-repeat center;
 }
 
 article.card .four {
-	background: url(../ressources/Sticker_Ambassador.png) no-repeat center;
+	background: url(../ressources/images/selling.png) no-repeat center;
 }
 
 article.card .five {
-	background: url(../ressources/Sticker_RoiLecture.png) no-repeat center;
+	background: url(../ressources/images/selling.png) no-repeat center;
 }
 
 article.card .infos {
